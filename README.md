@@ -1,2 +1,2 @@
 basic-teacher-dashboard
-EBook
+
